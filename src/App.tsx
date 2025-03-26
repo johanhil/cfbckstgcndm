@@ -18,7 +18,7 @@ const handleFailRequestsOnChange = (e: React.ChangeEvent<HTMLInputElement>) => {
 };
 
 const confidence = Confidence.create({
-  clientSecret: 'wypKi8pVEUXlYVTTQZWwNqS9mP2q9fCK',
+  clientSecret: 'wkq6f42x8n5A0qdB1emeTJxIXMxS7KIA',
   environment: 'client',
   timeout: 3000,
 });
