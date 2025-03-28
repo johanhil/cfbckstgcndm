@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: flag-demo
+  description: The place to be to see Confidence Flags in action.
+  links:
+    - url: https://sites.spotify.net/spa/backstagecon-demo/
+      title: Confidence Flags Demo
+spec:
+  type: website
+  lifecycle: production
